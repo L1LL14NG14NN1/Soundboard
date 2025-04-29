@@ -40,7 +40,7 @@ A colorful and interactive SwiftUI-based music loop pad. Tap buttons to trigger 
 
 ## ✨ Demo Preview
 
-(Soundboard picture.png)
+![Alt text](SoundBoardPic.png)
 
 ---
 
